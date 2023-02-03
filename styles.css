@@ -1,17 +1,28 @@
-*{
+body{
     box-sizing: border-box;
+    background-color: lightgrey;
 }
 
 .contenedor-principal{
     display:flex;
     flex-direction: column;
-    
     align-items: center;
     padding: 10px;
     border: 2px solid red;
+    width: 650px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    background: white;
+   
 }
 
+.post-img img{
+    width: 100%;
+    height: 100%;
+    
+}
 
 p {
     text-align: center;
 }
+
