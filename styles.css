@@ -20,18 +20,14 @@ body{
 
 .post-header{
     display: flex;
-    
-    display: flex;
-       
-   
-        
+    display: flex;  
     align-items: center;
 }
 
 .logo{
-    align-items: center;
     padding: 5px;
 }
+
 
 .post-img img{
     width: 100%;
@@ -39,7 +35,5 @@ body{
     
 }
 
-p {
-    text-align: center;
-}
+
 
